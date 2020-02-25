@@ -88,7 +88,7 @@ namespace Bewerbung
                     {
                         ff.Range.Text = txtJobTitel.Text; 
                     }
-                    else if (ff.Title == "Autor")
+                    else if (ff.Title == "Author")
                     {
                         if (txtPortal.Text != "") ff.Range.Text = txtPortal.Text;
                     }
